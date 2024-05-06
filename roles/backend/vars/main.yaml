@@ -1,5 +1,5 @@
 login_password: ExpenseApp@1
-login_host: "172.31.21.57"
-db_host: "172.31.21.57"
+login_host: "172.31.31.148"
+db_host: "172.31.31.148"
 app_location: /app
 component: backend
