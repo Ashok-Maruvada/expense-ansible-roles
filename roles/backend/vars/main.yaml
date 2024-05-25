@@ -1,5 +1,6 @@
-#login_password: ExpenseApp@1
-login_host: "172.31.31.148"
-db_host: "172.31.31.148"
+login_user: root
+login_password: ExpenseApp@1
+login_host: db.goadd.fun
+db_host: db.goadd.fun
 app_location: /app
 component: backend
